@@ -18,8 +18,8 @@ To write a C function to calculate the turnaround time of each process given the
 ```
 /*
 Program to calculate the turnaround time of each process given their burst time and waiting time
-Developed by: Vishwaraj G.
-Register Number: 212223220125
+Developed by: Kamesh D
+Register Number: 212222240043
 */
 
 #include <stdio.h>
